@@ -1,0 +1,57 @@
+#first {
+    color: rgb(221, 227, 221);
+    font-size: 80px;
+    background-color:rgba(105, 202, 115, 0.71);
+}
+
+#p01{
+    display:flex;
+    background-color:rgb(63, 206, 58);
+    justify-content:space-between;
+}
+
+#p0{
+    display:flex;
+    margin: -20px;
+}
+
+body{
+    background-color: rgb(204, 244, 241);
+}
+header {
+    display: flex;
+    margin: 0px 10px;
+    align-items: center;
+    padding: 1rem;
+    justify-content: space-between;
+}
+
+.space {
+    margin-right: 10px; /* Add space to the right of "Sign In" */
+}
+
+#p1{
+    background-color: rgb(237, 235, 230);
+    padding: 20px;
+    margin: 20px;
+    border-style: groove;
+    transform: translateX(8%);
+
+}
+
+#p2{
+    background-color:rgb(237, 235, 230);
+    padding: 20px;
+    margin: 20px;
+    border-style: groove;
+
+}
+
+#p3{
+    background-color:rgb(237, 235, 230);
+    padding: 20px;
+    margin: 20px;
+    border-style: groove;
+    transform: translateX(-6.5%);
+
+}
